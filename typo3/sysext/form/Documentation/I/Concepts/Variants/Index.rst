@@ -469,7 +469,7 @@ In this example the second step :yaml:`page-2` is disabled if the field
    type: Form
    prototypeName: standard
    identifier: multi-step-form
-   label: Muli step form
+   label: Multi step form
    renderables:
      -
        type: Page
